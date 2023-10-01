@@ -81,12 +81,12 @@ height:100%;
     left:50%;
   text-align: center;
 } .controls next{
-  float:right;
+  text-align:left;
   padding-right:20px;
 } .controls previous{
-  float:left;
+  text-align:right;
   padding-left:20px;
-}
+} 
 .box4{background-color:green;}
 .box5{background-color:blue;}
 .box6{background-color:navy;}
