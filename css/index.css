@@ -87,7 +87,9 @@ height:100%;
 } .controls.previous{
   text-align:right;
   padding-left:20px;
-} 
+} .col-lg-2 {
+  padding-bottom:40px;
+}
 .box4{background-color:green;}
 .box5{background-color:blue;}
 .box6{background-color:navy;}
