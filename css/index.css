@@ -1,0 +1,39 @@
+html,body{
+  margin:0;
+  padding:0;
+  height:100%;
+}
+#wrap{
+  max-width:768px;
+  margin:0 auto;
+}
+div{height:100%;}
+.box{position:relative;}
+.inbox{
+  position:relative;
+  width:100%;
+}
+.inbox-text{
+  position:absolute;
+  left:50%;
+  top:50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  height:auto;
+  margin:0 auto;
+}
+.box1{
+  background-image: url("https://github.com/shl054/wedding/tree/main/img/01.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.inbox1-1{height:15%;}
+.inbox1-2{height:70%;top:20%;}
+.inbox1-3{height:15%;}
+
+.box2{background-color:orange;}
+.box3{background-color:yellow;}
+.box4{background-color:green;}
+.box5{background-color:blue;}
+.box6{background-color:navy;}
+.box7{background-color:purple;}
