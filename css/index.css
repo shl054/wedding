@@ -81,13 +81,11 @@ height:100%;
     left:50%;
   text-align: center;
 } .controls.next{
-  text-align:right;
-  left:20%;
+  right:5%;
   position:absolute;
 } .controls.previous{
-  text-align:left;
   position:absolute;
-  left:80%
+  left:5%
 } .col-lg-2 {
   padding-bottom:40px;
 }
