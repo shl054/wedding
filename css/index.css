@@ -80,10 +80,10 @@ height:100%;
   max-height:60px;
     left:50%;
   text-align: center;
-} .controls next{
+} .controls.next{
   text-align:left;
   padding-right:20px;
-} .controls previous{
+} .controls.previous{
   text-align:right;
   padding-left:20px;
 } 
