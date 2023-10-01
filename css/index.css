@@ -80,6 +80,12 @@ height:100%;
   max-height:60px;
     left:50%;
   text-align: center;
+} .controls next{
+  float:right;
+  padding-right:20px;
+} .controls previous{
+  float:left;
+  padding-left:20px;
 }
 .box4{background-color:green;}
 .box5{background-color:blue;}
