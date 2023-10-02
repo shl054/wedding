@@ -1,6 +1,7 @@
 @charset "UTF-8";
 body{
- font-size:xx-large;
+ font-size:45px;
+  line-height:120%;
 }
 html,body{
   margin:0;
