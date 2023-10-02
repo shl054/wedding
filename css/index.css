@@ -51,12 +51,12 @@ height:100%;
   padding:0;
   margin:0;
   width:100%;
-} .box3 .outbox ul{
+} .box3 .outbox3-2 ul{
   position:relative;
   float:left;
   width:50%;
 }
-.box3 .outbox dt{
+.box3 .outbox3-1 dt{
   width:60%;
   position:relative;
   float:left;
@@ -65,7 +65,7 @@ height:100%;
   margin:0;
   margin-top:25px;
 }
-.box3 .outbox dd{
+.box3 .outbox3-1 dd{
   width:20%;
   min-height:45px;
   max-height:60px;
@@ -76,19 +76,17 @@ height:100%;
   padding:0;
   margin:0;
   padding-top:20px;
-} .box3 .outbox li{
+} .box3 .outbox3-2 li{
   min-height:45px;
   max-height:60px;
     left:50%;
   text-align: center;
-} .controls.next{
-  right:5%;
-  position:absolute;
-} .controls.previous{
-  position:absolute;
-  left:5%
-} .col-lg-2 {
-  padding-bottom:40px;
+} .outbox3-3 li{
+  width:100%;
+  height:auto;
+} .outbox3-3 img{
+  width:100%;
+  height:auto;
 }
 .box4{
   position: relative;
