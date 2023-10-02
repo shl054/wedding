@@ -38,14 +38,7 @@ height:100%;
 .inbox2-1{height:10%;}
 .inbox2-2{height:90%;}
 .outbox3{
-  width:100%;
   position:relative;
-}
-.outbox3-1{
-  weight:100%;
-  height:auto;
-} .outbox3-2{
-  height:auto;
 }
 .box3 .outbox dl, ul{
   positioin:relative;
