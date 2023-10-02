@@ -89,6 +89,8 @@ height:100%;
   left:5%
 } .col-lg-2 {
   margin-bottom:40px;
+} .row{
+  width:100%;
 }
 .box4{
   position: relative;
