@@ -54,7 +54,9 @@ height:100%;
   padding:0;
   margin:0;
   width:100%;
-} .box3 .outbox3-2 ul{
+} .outbox3-2{
+  width:100%;
+}.box3 .outbox3-2 ul{
   position:relative;
   float:left;
   width:50%;
@@ -63,7 +65,9 @@ height:100%;
 } .outbox3-2 li:first-child {
   margin-bottom:30px;
 } .outbox3-3 li:first-child {
-  height:140px;
+  padding-top:40px;
+  padding-bottom:40px;
+  text-align: center;
 }
 .box3 .outbox3-1 dt{
   width:60%;
