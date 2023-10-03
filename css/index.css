@@ -29,6 +29,7 @@ height:100%;
   height:auto;
   margin:0 auto;
 } .box1{
+  font-family: 'MaruBuriSemiBold';
   font-size:60px;
   line-height:180%;
   text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
@@ -46,6 +47,7 @@ height:100%;
 .inbox2-1{height:10%;}
 .inbox2-1 .inbox-text{
   font-size:60px;
+  font-family: 'MaruBuriSemiBold';
 }
 .inbox4-1{height:143px;}
 .inbox2-2{height:90%;}
@@ -77,6 +79,7 @@ height:100%;
   margin-bottom:30px;
 } .outbox3-2 li:first-child {
   margin-bottom:30px;
+  font-family: 'MaruBuriSemiBold';
 } .outbox3-3 li:first-child {
   font-size:60px;
   padding-top:40px;
@@ -124,6 +127,7 @@ height:100%;
   width: 100%;
 }.inbox4-1 .inbox-text{
   font-size:60px;
+  font-family: 'MaruBuriSemiBold';
 }
 .inbox4-2{
   position: relative;
