@@ -1,8 +1,4 @@
 @charset "UTF-8";
-body{
-
-  line-height:180%;
-}
 html,body{
   margin:0;
   padding:0;
@@ -31,6 +27,7 @@ height:100%;
   margin:0 auto;
 } .box1{
   font-size:60px;
+  line-height:180%;
   text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
   background-image: url("../img/01.jpg");
   background-repeat: no-repeat;
@@ -39,6 +36,10 @@ height:100%;
 } .inbox1-1{height:15%;}
 .inbox1-2{height:70%;top:15%;}
 .inbox1-3{height:15%;}
+.box2{
+  font-size:45px;
+  line-height:180%;
+}
 .inbox2-1{height:10%;}
 .inbox2-1 .inbox-text{
   font-size:60px;
@@ -135,6 +136,7 @@ height:100%;
   width: 100%;
 } .inbox4-3{
   font-size:40px;
+  line-height:180%;
   position: relative;
   width: 100%;
 }
