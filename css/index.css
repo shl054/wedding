@@ -29,10 +29,10 @@ height:100%;
   height:auto;
   margin:0 auto;
 } .box1{
-  font-family: 'MaruBuriSemiBold';
+  font-family: 'MaruBuriBold';
   font-size:60px;
   line-height:180%;
-  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+  text-shadow: -1px 0 seashell, 0 1px seashell, 1px 0 seashell, 0 -1px seashell;
   background-image: url("../img/01.jpg");
   background-repeat: no-repeat;
   background-position: center;
