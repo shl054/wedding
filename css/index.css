@@ -33,11 +33,14 @@ height:100%;
   font-size:60px;
   line-height:180%;
   text-shadow: -1px 0 seashell, 0 1px seashell, 1px 0 seashell, 0 -1px seashell;
-  background-image: url("../img/01.jpg");
+  background-image: url("../img/00.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-} .inbox1-1{height:15%;}
+} .box1 .audio {
+  display:none;
+}
+.inbox1-1{height:15%;}
 .inbox1-2{height:70%;top:15%;}
 .inbox1-3{height:15%;}
 .box2{
