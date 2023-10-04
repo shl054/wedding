@@ -142,6 +142,9 @@ height:100%;
   left: 0;
   width: 100%;
   height: 573px;
+}.box4 iframe {
+  position: relative;
+  width: 100%;
 } .inbox4-3{
   font-size:40px;
   line-height:180%;
